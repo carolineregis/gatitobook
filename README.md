@@ -1,6 +1,7 @@
-# Gatitobook
+# 🐱 Gatitobook 🐱
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+📚 Projeto criado como objeto de estudo do curso de boas práticas em Angular, pela Alura. 
+> Generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
 
